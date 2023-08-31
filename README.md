@@ -2,7 +2,7 @@
 - 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning FULL STACK DEVELOPMENT
 - 💞️ I’m looking to collaborate on MERN STACK
-- 📫 How to reach me pavanummaganni17@gmail.com
+- 📫 How to reach me pavankalyanU@outlook.com
 
 <!---
 PavanUmmagani07/PavanUmmagani07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
